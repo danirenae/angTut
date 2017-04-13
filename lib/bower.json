@@ -1,0 +1,22 @@
+{
+  "name": "lib",
+  "description": "",
+  "main": "index.js",
+  "authors": [
+    "Dani Adkins <danirenaeadkins12@gmail.com>"
+  ],
+  "license": "ISC",
+  "homepage": "https://github.com/angTut",
+  "ignore": [
+    "node_modules",
+    "bower_components"
+  ],
+  "dependencies": {
+    "angular": "^1.5.8",
+    "angular-route": "^1.5.9",
+    "angular-materialize": "^0.2.1"
+  },
+  "resolutions": {
+    "angular": "1.5.9"
+  }
+}
